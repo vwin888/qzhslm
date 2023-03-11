@@ -21,7 +21,7 @@ Windows:3389
 ####域名 
 vmin.vip vmin1888.com vmin888.com
 
-[namesilo]()https://www.namesilo.com
+[namesilo](https://www.namesilo.com)
 用户名：vmin1888  邮箱：vmin1888@hotmail.com  密码：VM@ns001
 
 Namesilo DNS 域名解析教程和常见问题解决方法汇总
